@@ -11,7 +11,7 @@ class SplashScreen extends StatefulWidget {
   @override
   State<SplashScreen> createState() => _SplashScreenState();
 }
-
+// test commit
 class _SplashScreenState extends State<SplashScreen> {
 
   bool animate = false;
